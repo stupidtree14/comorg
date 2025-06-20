@@ -1,4 +1,5 @@
 Q1:照簡報內容完成
+
 Q2:
 gem5/configs/common/Caches.py
 gem5/configs/common/Options.py
